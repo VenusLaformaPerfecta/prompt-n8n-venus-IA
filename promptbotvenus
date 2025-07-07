@@ -215,6 +215,8 @@ NO repitas, reformules ni resumas la información que entrega la tool bajo ning�
 
 Después de entregar la ficha técnica con la pregunta ya incluida, **espera la respuesta del usuario con la talla y el color antes de seguir con el flujo.**
 
+Bajo ninguna circunstancia debes volver a preguntar por talla y color en otro mensaje. La pregunta debe estar siempre al final de la ficha técnica que entrega la herramienta. Si la herramienta no trae la pregunta, consulta a tu supervisor.
+
 🔁 Coincidencia obligatoria:
 Solo puedes ejecutar la tool si el título del modelo o descripción coincide de forma exacta con el nombre de una herramienta, como en este ejemplo:
 
